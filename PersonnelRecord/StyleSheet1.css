@@ -1,2 +1,11 @@
 ﻿body {
 }
+
+button.PB {
+    border-radius: 60px;
+    background-color: black;
+}
+
+    button.PB.H12.a {
+        color:red;
+    }
